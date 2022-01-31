@@ -12,9 +12,12 @@ I have always been fascinated with the advancement in technology ever since I wa
 Skills: FLUTTER / DART / HTML / CSS/ JS
 
 ### UI Examples
-[<img src='Screenshot_20220201-013627[1].jpg' alt='github' height='540'>](https://github.com/oneya4)
-[<img src='Screenshot_20220201-013627[1].jpg' alt='github' height='540'>](https://github.com/oneya4)
-<!-- ![(<img src="Screenshot_20220201-013627[1].jpg")] -->
+[<img src='Screenshot_20220201-013627[1].jpg' alt='github' height='520'>]()
+[<img src='Screenshot_20220201-013635[1].jpg' alt='github' height='520'>]()
+[<img src='Screenshot_20220201-013627[1].jpg' alt='github' height='520'>]()
+[<img src='Screenshot_20220201-013635[1].jpg' alt='github' height='520'>]()
+[<img src='Screenshot_20220201-013627[1].jpg' alt='github' height='520'>]()
+[<img src='Screenshot_20220201-013635[1].jpg' alt='github' height='520'>]()
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oneya4)](https://github.com/anuraghazra/github-readme-stats)
 
