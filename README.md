@@ -9,7 +9,10 @@ I have always been fascinated with the advancement in technology ever since I wa
 - 📫 How to reach me: freddyoneya4@gmail.com
 - ⚡ Fun fact: I would like to work in MAANGs someday
 
-Skills: FLUTTER/DART / HTML / CSS/ JS
+Skills: FLUTTER / DART / HTML / CSS/ JS
+
+### UI Examples
+<img src="" width"256">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oneya4)](https://github.com/anuraghazra/github-readme-stats)
 
