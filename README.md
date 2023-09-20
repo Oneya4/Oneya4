@@ -7,7 +7,7 @@ I have always been fascinated with the advancement in technology ever since I wa
 - 👯 I’m looking to collaborate on Flutter project
 - 💬 Ask me about Flutter layouts (ClipPaths/Positioning etc)
 - 📫 How to reach me: freddyoneya4@gmail.com
-- ⚡ Fun fact: I would like to work in MAANGs someday
+- ⚡ Fun fact: We'll circle back to this later
 
 Skills: FLUTTER / DART / HTML / CSS/ JS
 
